@@ -1,35 +1,40 @@
-<!-- Animated Cyber Header -->
+<!-- Animated Gradient Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/sCk5xgG/cyber-banner.gif" width="100%" />
+  <img src="https://i.ibb.co/4PgnV8d/futuristic-banner.gif" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  
-# ⚡ Hey, I'm **Carl John**  
+
+# ⚡ Hey, I'm **Carl John**
 ### `Aspiring Developer | IT Student | Future Full-Stack Dev`
 
 Building clean, modern, and meaningful applications.  
-Focused on improving everyday, one commit at a time.
+Focused on improving every day, one commit at a time.
 
 </div>
 
 ---
 
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://i.ibb.co/Zm2Tcz6/line-anim.gif" width="60%" />
+</div>
+
+---
+
 ## 🟪 **About Me**
-- 🔥 IT Student with a passion for building modern UIs  
-- 💻 Learning **Python, HTML, CSS, Flutter soon**  
-- 🧩 Loves clean code & aesthetic layouts  
-- 🧠 Always exploring new tech  
-- 🚀 Using **VS Code** as my main weapon  
+- 🔥 IT Student with a passion for clean and modern UI  
+- 💻 Learning **Python, HTML, CSS**, and **Flutter soon**  
+- 🧩 Enjoys building minimal and polished layouts  
+- 🔎 Always exploring new tools & improving skills  
+- 🚀 Using **VS Code** as my main environment  
 
 ---
 
 ## 🟣 **Tech Stack**
 <div align="center">
-
-### 🔧 Languages & Tools I Use
 
 <img src="https://skillicons.dev/icons?i=python,html,css,vscode,git,github&theme=dark" />
 
@@ -37,11 +42,18 @@ Focused on improving everyday, one commit at a time.
 
 ---
 
+<!-- Another Subtle Animated Divider -->
+<div align="center">
+  <img src="https://i.ibb.co/Zm2Tcz6/line-anim.gif" width="45%" />
+</div>
+
+---
+
 ## ⚡ **GitHub Stats**
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=crldnglsn-dev&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crldnglsn-dev&layout=compact&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=crldnglsn-dev&show_icons=true&theme=tokyonight&hide_border=false" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crldnglsn-dev&layout=compact&theme=tokyonight&hide_border=false" height="165" />
 
 </div>
 
@@ -50,7 +62,7 @@ Focused on improving everyday, one commit at a time.
 ## 🔥 **Streak Stats**
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=crldnglsn-dev&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=crldnglsn-dev&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 
 </div>
 
@@ -59,7 +71,7 @@ Focused on improving everyday, one commit at a time.
 ## 🟪 **Activity Graph**
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crldnglsn-dev&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crldnglsn-dev&theme=tokyo-night&radius=10" />
 
 </div>
 
@@ -80,9 +92,11 @@ Focused on improving everyday, one commit at a time.
 
 ---
 
+<br>
+
 <div align="center">
   
 ### 🟣 Always improving. Always learning.  
-✨ Thanks for visiting my profile! ✨
+<img src="https://i.ibb.co/7jmsDcc/pulse-animation.gif" width="120px" />
 
 </div>
