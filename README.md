@@ -17,9 +17,9 @@ Focused on improving every day, one commit at a time.
 
 ---
 
-<!-- Animated Divider -->
+<!-- Clean Gradient Divider -->
 <div align="center">
-  <img src="https://github.com/crldnglsn-dev/crldnglsn-dev/blob/main/purpledivider.gif" width="60%" />
+  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="80%" />
 </div>
 
 ---
@@ -33,6 +33,13 @@ Focused on improving every day, one commit at a time.
 
 ---
 
+<!-- Clean Gradient Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="60%" />
+</div>
+
+---
+
 ## 🟣 **Tech Stack**
 <div align="center">
 
@@ -42,9 +49,9 @@ Focused on improving every day, one commit at a time.
 
 ---
 
-<!-- Another Subtle Animated Divider -->
+<!-- Clean Gradient Divider -->
 <div align="center">
-  <img src="https://i.ibb.co/Zm2Tcz6/line-anim.gif" width="45%" />
+  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="45%" />
 </div>
 
 ---
@@ -64,6 +71,13 @@ Focused on improving every day, one commit at a time.
   
 <img src="https://streak-stats.demolab.com?user=crldnglsn-dev&theme=tokyonight&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
 
+</div>
+
+---
+
+<!-- Clean Gradient Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="60%" />
 </div>
 
 ---
