@@ -17,9 +17,11 @@ Focused on improving every day, one commit at a time.
 
 ---
 
-<!-- Clean Gradient Divider -->
+<!-- Clean Developer Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="80%" />
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ---
@@ -33,9 +35,11 @@ Focused on improving every day, one commit at a time.
 
 ---
 
-<!-- Clean Gradient Divider -->
+<!-- Clean Developer Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="60%" />
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ---
@@ -49,9 +53,11 @@ Focused on improving every day, one commit at a time.
 
 ---
 
-<!-- Clean Gradient Divider -->
+<!-- Clean Developer Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="45%" />
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ---
@@ -75,9 +81,11 @@ Focused on improving every day, one commit at a time.
 
 ---
 
-<!-- Clean Gradient Divider -->
+<!-- Clean Developer Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raihaninfo/gradient-line/main/gradientpurple.svg" width="60%" />
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </div>
 
 ---
