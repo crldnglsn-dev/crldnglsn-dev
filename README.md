@@ -1,6 +1,6 @@
 <!-- Animated Gradient Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/4PgnV8d/futuristic-banner.gif" width="100%" />
+  <img src="[https://i.ibb.co/4PgnV8d/futuristic-banner.gif](https://pin.it/4JU66FFDb)" width="100%" />
 </div>
 
 <br>
