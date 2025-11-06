@@ -1,6 +1,6 @@
 <!-- Animated Gradient Banner -->
 <div align="center">
-  <img src="https://github.com/crldnglsn-dev/crldnglsn-dev/blob/main/bannerpurple.gif" width="900px" />
+  <img src="https://github.com/crldnglsn-dev/crldnglsn-dev/blob/main/bannerpurple.gif" width="600px" />
 </div>
 
 <br>
