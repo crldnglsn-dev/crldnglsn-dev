@@ -19,7 +19,7 @@ Focused on improving every day, one commit at a time.
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://i.ibb.co/Zm2Tcz6/line-anim.gif" width="60%" />
+  <img src="https://github.com/crldnglsn-dev/crldnglsn-dev/blob/main/purpledivider.gif" width="60%" />
 </div>
 
 ---
